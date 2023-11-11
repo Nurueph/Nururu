@@ -3,7 +3,9 @@ html{background-color: black;
 div{
     width: 200px;
     height: 238px;
-    margin-left: 200px;
+    position: fixed;
+    left: 500px;
+    top: 100px;
     border: 5px solid white;
 }
 h1{color: white;
