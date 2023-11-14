@@ -1,4 +1,10 @@
-html{background: #0e304e;}
+body{
+background-color: rgb(48, 68, 101);
+background-image: url(./assets/images/hehehehe.png);
+background-repeat: no-repeat;
+background-size: auto;
+}
+
 div{display: block;
     
 }
