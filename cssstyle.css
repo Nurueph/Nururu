@@ -1,9 +1,15 @@
-html{background: #014C8F;}
+html{background: #0e304e;}
+div{display: block;
+    
+}
 #main{color: #ff54d5;}
 #linki{color: #ff54d5;}
 .nuru{color:#ff8de3;}
-.null{color: #5768D2;font-style: oblique;}
+.null a{color: cadetblue;font-style: oblique;}
 .nururu{color: #a7dff4;}
-a{color:#FF9DF0;}
-img{width: 200px;height: 200px;}
+div a{color:#FF9DF0;}
+img{width: 200px;height: 200px;
+    border-radius: 50px;
+
+}
 *{text-align: center;}
